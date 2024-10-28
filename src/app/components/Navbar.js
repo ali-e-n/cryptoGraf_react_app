@@ -63,25 +63,25 @@ const Navbar = () => {
               href="#"
               className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"
             >
-              Products
+              Markets
             </a>
             <a
               href="#"
               className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"
             >
-              Features
+              Trade
             </a>
             <a
               href="#"
               className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"
             >
-              Pricing
+              Future
             </a>
             <a
               href="#"
               className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"
             >
-              Support
+              Earn
             </a>
           </nav>
 
@@ -102,25 +102,25 @@ const Navbar = () => {
               href="#"
               className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"
             >
-              Products
+              Markets
             </a>
             <a
               href="#"
               className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"
             >
-              Features
+              Trade
             </a>
             <a
               href="#"
               className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"
             >
-              Pricing
+              Future
             </a>
             <a
               href="#"
               className="text-base font-normal text-gray-400 transition-all duration-200 hover:text-white"
             >
-              Support
+              Earn
             </a>
             <div className="relative inline-flex items-center justify-center group">
               <div className="absolute transition-all duration-200 rounded-full -inset-px bg-gradient-to-r from-cyan-500 to-purple-500 group-hover:shadow-lg group-hover:shadow-cyan-500/50"></div>
@@ -128,7 +128,7 @@ const Navbar = () => {
                 href="#"
                 className="relative inline-flex items-center justify-center w-full px-6 py-2 text-base font-normal text-white bg-black border border-transparent rounded-full"
               >
-                Start free trial
+                Get Started
               </a>
             </div>
           </nav>
