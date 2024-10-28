@@ -9,8 +9,9 @@ const Navbar = () => {
           <div className="shrink-0">
             <a href="#" title="" className="flex">
               <img
-                className="w-auto h-9"
-                src="https://landingfoliocom.imgix.net/store/collection/dusk/images/logo.svg"
+                className="w-auto h-20"
+                src="logo_v3.png"
+                // src="https://landingfoliocom.imgix.net/store/collection/dusk/images/logo.svg"
                 alt=""
               />
             </a>
@@ -90,7 +91,7 @@ const Navbar = () => {
               href="#"
               className="relative inline-flex items-center justify-center px-6 py-2 text-base font-normal text-white bg-black border border-transparent rounded-full"
             >
-              Start free trial
+              Get Started Now
             </a>
           </div>
         </div>

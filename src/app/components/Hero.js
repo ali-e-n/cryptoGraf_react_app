@@ -5,7 +5,7 @@ const Hero = () => {
 
   return (
     <div>
-      <section className="relative py-12 overflow-hidden bg-black sm:pb-16 lg:pb-20 xl:pb-24">
+      <section className="relative py-12 overflow-hidden bg-black sm:pb-16 lg:pb-20 xl:pb-52">
         <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
           <div className="grid items-center grid-cols-1 gap-y-12 lg:grid-cols-2 gap-x-16">
             <div>
@@ -63,7 +63,10 @@ const Hero = () => {
               </div>
             </div>
             <div className="img">
-              <img src="bitcoin.png" className="w-100 min-h-80" />
+              <img
+                src="snip1.png"
+                className="w-100 min-h-80 rounded-lg cursor-pointer"
+              />
             </div>
           </div>
         </div>
