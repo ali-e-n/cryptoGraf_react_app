@@ -57,7 +57,7 @@ const Hero = () => {
               </form>
               <div className="mt-8 sm:mt-12">
                 <p className="text-lg font-normal text-white">
-                  Trusted by 50k+ users
+                  {/* Trusted by 50k+ users */}
                 </p>
                 {/* Star SVGs go here */}
               </div>
