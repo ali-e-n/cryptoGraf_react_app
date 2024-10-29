@@ -14,7 +14,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "CryptoGraF",
-  description: "Created By Ali @ali-e-n_Github ",
+  description: "A Next.js App Created By Ali @ali-e-n_Github ",
 };
 
 export default function RootLayout({ children }) {
