@@ -64,7 +64,7 @@ const Hero = () => {
             </div>
             <div className="img">
               <img
-                src="snip1.png"
+                src="snip2.png"
                 className="w-100 min-h-80 rounded-lg cursor-pointer"
               />
             </div>
